@@ -1,0 +1,108 @@
+wlan0     Scan completed :
+          Cell 01 - Address: 30:D3:2D:1B:6B:58
+                    ESSID:"Lorelei"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.462 GHz (Channel 11)
+                    Encryption key:on
+                    Bit Rates:144 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    IE: Unknown: DD980050F204104A0001101044000102103B0001031047001004E4B697A2A359AF9409E0743993FBE410210007756E6B6E6F776E10230018486F6D65506C756720415620576972656C6573732041502010240003312E3010420003312E301054000800060050F204000110110017486F6D65506C756720415620576972656C65737320415010080002200C103C0001011049000600372A000120
+                    Quality=100/100  Signal level=47/100  
+          Cell 02 - Address: 02:C7:BF:58:C8:60
+                    ESSID:"Lorelei_guest"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.452 GHz (Channel 9)
+                    Encryption key:on
+                    Bit Rates:144 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=48/100  Signal level=66/100  
+          Cell 03 - Address: 5C:49:79:45:6B:2C
+                    ESSID:"FRITZ!Box 7490"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.437 GHz (Channel 6)
+                    Encryption key:on
+                    Bit Rates:144 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=48/100  Signal level=56/100  
+          Cell 04 - Address: 50:C7:BF:58:C8:60
+                    ESSID:"Lorelei"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.452 GHz (Channel 9)
+                    Encryption key:on
+                    Bit Rates:144 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=34/100  Signal level=70/100  
+          Cell 05 - Address: 02:C7:BF:72:0F:28
+                    ESSID:"Lorelei_guest"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.452 GHz (Channel 9)
+                    Encryption key:on
+                    Bit Rates:144 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=97/100  Signal level=42/100  
+          Cell 06 - Address: 50:C7:BF:72:0F:28
+                    ESSID:"Lorelei"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.452 GHz (Channel 9)
+                    Encryption key:on
+                    Bit Rates:144 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=90/100  Signal level=42/100  
+          Cell 07 - Address: 32:D3:2D:1B:6B:58
+                    ESSID:"Lorelei_guest"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.462 GHz (Channel 11)
+                    Encryption key:on
+                    Bit Rates:144 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=0/100  Signal level=47/100  
+          Cell 08 - Address: 88:03:55:CA:99:0F
+                    ESSID:"WLAN-CA9994"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.462 GHz (Channel 11)
+                    Encryption key:on
+                    Bit Rates:300 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    IE: Unknown: DD270050F204104A00011010440001021047001000000000000000030000880355CA990F103C000103
+                    Quality=77/100  Signal level=23/100  
+

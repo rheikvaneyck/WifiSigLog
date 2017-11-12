@@ -1,0 +1,8 @@
+#!/bin/bash
+LOGFILE=/tmp/wifisignal
+AWKFILE=/home/pi/parseWifilog.awk
+SIGFILE=/tmp/wifisig.log
+AWK=/usr/bin/awk
+IWL=/sbin/iwlist
+${IWL} wlan0 scan > ${LOGFILE}
+${AWK} -f ${AWKFILE} ${LOGFILE} >> ${SIGFILE}
